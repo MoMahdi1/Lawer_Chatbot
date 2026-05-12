@@ -1,6 +1,6 @@
 # Create Directory
 
-mikdir -p src
+mkdir -p src
 mkdir -p research
 
 
